@@ -91,4 +91,4 @@ I'm currently interested in opportunities involving:
 
 ## 📫 Connect With Me
 
-[LinkedIn]:(https://www.linkedin.com/in/veronica-e-dindial-116399229?) 
+💬[LinkedIn](https://www.linkedin.com/in/veronica-e-dindial-116399229?) 
