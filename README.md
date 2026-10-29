@@ -1,8 +1,8 @@
 # Hi, I'm Veronica Dindial☀
 
 🔵Cybersecurity Student at the University at Albany
-💻 C# / Unity Developer  
-🔐 Interested in Cybersecurity, Software Engineering, Cloud Computing & DevOps
+ C# / Unity Developer  
+Interested in Cybersecurity, Software Engineering, Cloud Computing & DevOps
 
 ## 🌸About Me🌸
 
@@ -13,14 +13,14 @@ and technical project leadership.
 I enjoy building systems, troubleshooting technical problems, and
 combining security concepts with software development.
 
-## 🏆Technical Skills🏆
+## Technical Skills
 
-🖥**Programming**🖥
+**Programming**
 - C#
 - Unity
 - Git / GitHub
 
-📡**Cybersecurity & IT**📡
+**Cybersecurity & IT**
 - Active Directory
 - Linux
 - Security Analysis
@@ -31,18 +31,18 @@ combining security concepts with software development.
 - Microsoft Azure
 - AWS
 
-🔥**Other**🔥
+**Other**
 - Project Management
 - Technical Troubleshooting
 - Healthcare IT
 - Quality Assurance
 
-## 🎮Game Development🎮
+## Game Development
 
 ### 🐭🏃‍♀️ Mouse Runner
 2D maze-chase strategy game developed in Unity and C#.
 
-⭐Features include:
+Features include:
 - Enemy patrol and chase AI
 - Line-of-sight detection
 - Player lives and respawning
@@ -51,10 +51,10 @@ combining security concepts with software development.
 - Save system
 - Game state management
 
-### ⚽2D Soccer Game⚽
+### ⚽2D Soccer Game
 Retro-style soccer game developed with Unity.
 
-⭐Features include:
+Features include:
 - Player movement
 - Passing and shooting
 - AI goalkeeper
@@ -63,9 +63,9 @@ Retro-style soccer game developed with Unity.
 - Match timer
 - Reward system
 
-## 🔐 Cybersecurity
+##  Cybersecurity
 
-✨My cybersecurity work includes✨:
+My cybersecurity work includes:
 
 - Enterprise cybersecurity experience
 - Digital forensics
@@ -77,7 +77,7 @@ Retro-style soccer game developed with Unity.
 - Incident response concepts
 - Cloud security
 
-## 🌺Current Interests🌺
+## Current Interests
 
 I'm currently interested in opportunities involving:
 
